@@ -1,0 +1,2 @@
+uid=5507(mephi-admin) gid=5507(mephi-admin) группы=5507(mephi-admin),5508(mephi-devs)
+mephi-devs:x:5508:mephi-admin
